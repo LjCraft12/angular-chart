@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.6.0",
+    "angular-chartjs": "0.0.5",
+    "chart.js": "^2.4.0",
+    "install": "^0.8.2",
+    "npm": "^4.0.5",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0"
   }
